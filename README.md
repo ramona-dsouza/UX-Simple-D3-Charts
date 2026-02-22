@@ -2,7 +2,7 @@
 
 ## Overview
 
-A minimal bar-chart visualization built with D3.js, focused on clear data encoding, predictable interaction feedback, and restrained motion. The project applies principles drawn from spatial and immersive (VR) data experiences—clarity at a glance, progressive disclosure, and consistent feedback—translated into a 2D web implementation.
+A minimal bar-chart visualization built with D3.js, focused on clear data encoding, predictable interaction feedback, and restrained motion. 
 
 **Live demo:** [Simple D3 Charts](https://ramona-dsouza.github.io/UX-Simple-D3-Charts/)
 
